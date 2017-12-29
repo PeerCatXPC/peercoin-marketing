@@ -1,0 +1,28 @@
+These are some statements I've compiled, perhaps useful, perhaps not.  Maybe add some to the video.
+
+
+Sunny King announced the launch of Peercoin in August 2012.  No coins were pre-mined, as many cryptocurrencies practice today.  
+
+The largest five mining pools and companies control over 75% of the total mining capacity which now stands at 1517 petahash/second (IEEE, 2017)
+
+As more miners mine, profitability decreases, as the "difficulty level" of mining increases.
+
+As newer technologies emerge, such as quantum computers or graphene processors, large corporations with monetary resources will be able to monopolize all significant mining activity for PoW coins.
+
+
+The Institute of Electrical and Electronics Engineering (IEEE) released a study in December 2017 called "Minting Money with Megawatts" and noted:
+Capital costs of the latest systems and facilities are high which presents a barrier to entry to new miners. Consolidation in mining raises concerns about the integrity of Bitcoin: the greater the concentration of mining capacity, the greater opportunity the miners have of colluding to attack the blockchain. If any entity or group were to gain control over 51% or more of the mining capacity, they would effectively control the transaction history of the blockchain, and the decentralized, trustless quality of Bitcoin would be destroyed.
+
+The dreaded hack of the blockchain on a PoW currency is known as the "51% attack," where a group of miners work together to to control more than 50% of the hashrate, the amount of computer processing power currently working to mine the currency, can occur anytime, but the more miners who are mining the currency act as safeguards against it.  If mining was restricted to a few large entities, a 51% attack would be easier to perpetrate.
+
+In a 51% attack, once the greater than 50% hashrate has been achieved, the assailants can monopolize the transactions on the network.  They can block other users' transactions, they can spend their own coins more than once, and essentially destroy the currency if they were so inclined.
+
+The longer a blockchain is, the more years it has been in service, the less vulnerable it becomes to this attack.  Conversely, the longer the blockchain is, the longer it takes to download, which may seem inconsequential, but if it took a week to download the blockchain, chances are a lot of people wouldn't use that currency.
+
+In Proof of Stake currencies, the dreaded 51% hack attack must be perpetrated in a completely different way: instead of having to take over greater than 50% of the mining hashrate, like you do for PoW coins, you have to control greater than 50% of the coins in circulation, and if an entity did manage to somehow control greater than 50% of the coins in circulation and perpetrated this hack, they would harm their own investment.
+
+
+XPC is a hybrid coin with PoW and PoS properties, and was the first coin to institute PoS.  Mining pools are formed and are accessible through Peercoin.net if you were so interested.
+
+
+As the price of coins increase, so do their transaction fees.  Transaction fees are paid to miners for PoW coins like BTC, but transaction fees for Peercoin (XPC) are not paid to anyone but rather destroyed to decrease inflationary costs to the investor.  Transaction fees for BTC at the end of 2017 are around $20; that's a fee of $20 to send BTC to someone.  The fee for XPC at the end of 2017 for a transaction is about $0.04.
