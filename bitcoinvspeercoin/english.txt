@@ -1,0 +1,87 @@
+Bitcoin's Problem
+
+The Bitcoin network is limited; it is only able to handle up to 80 transactions per second, or 6.9 million transactions per day.
+
+Another problem with Bitcoin is that the current block size limits and caps the transaction rate even more...
+
+Bitcoin's block size limit caps the network at only 463 transactions/minute, or ~ transactions/second.
+
+This means Bitcoin is not a viable micro-currency, long-term. It's technical limitations keep bitcoin from processing more than 500 transactions/minute.
+
+This is important to understand because soon, Bitcoin's miners will not be able to make enough money to sustain their mining costs at the currently low transaction fees...
+
+Bitcoin miners are not stupid, "eventually", miners will be forced to either:
+
+(1) Increase their fees to cover their mining gear and electricity costs, or
+
+(2) Stop mining altogether.
+
+If miners: (1) increase their transaction fees, the network will lose its usefulness as a micro-currency.
+
+If Bitcoin's miners: (2) stop mining altogether, the network becomes increasingly unsecure, and is vulnerable to a 51% attack.
+
+So Bitcoin is really not a good safe-haven for keeping large sums of money, long-term.
+
+Bitcoin's security is highly dependent upon its miners.
+
+This leaves it with unknown and unquantifiable risks.
+
+In order to maintain security, mining costs must perpetually increase to lower the risk of a 51% attack.
+
+This risk will never go away.
+
+Therefore the costs to prevent this attack will never go away.
+
+This forever increased need for mining is inefficient and unsustainable to a network's security long-term.
+
+For these reasons, Bitcoin will become inefficient and unsustainable.
+
+It will "eventually" have to come to an end.
+
+Peercoin's Solution
+
+1. Peercoin will never have a transaction volume problem.
+
+2. Your savings mints a guaranteed 1% per year.
+
+3. Fixed transaction fees are destroyed; preventing inflation.
+
+4. Better for the environment.
+
+Peercoin's transaction fee is fixed at 0.01 PPC per transaction.
+
+In other words, the transaction fee is fixed at 1% of a 1 PPCoin, (not 1% of the total transaction).
+
+Because the fixed transaction fee scales with the price, it serves to prevent the network from experiencing transaction volume that is too large to handle.
+
+This helps prevent high-frequency trading and brings stability and balance to the transaction volume.
+
+The fee also prevents inflation...
+
+This is because the fee does not go to miners (unlike Bitcoin). Instead, the fee gets destroyed and decreases the money supply.
+
+Since the fee is destroyed by the network it causes deflation of the currency. This offsets the ~1% inflation per year minted by the PoS process.
+
+Peercoin's security is not solely based on "proof-of-work" (PoW) miners. Additional security comes from the users' savings in "proof-of-stake" (PoS) minting.
+
+All Peercoin needs for long-term PoS security is enough power to run the client... Basically, just a standard home computer.
+
+So Peercoin is better for the environment because PoS does not need any mining gear or perpetual costs to maintain the network security. Peercoin is a "greener" crypto.
+
+Ultimately, this means the Peercoin network is a better safe-haven for keeping large sums of money, "long-term".
+
+A classic example of:
+
+The Tortoise [PPC]
+
+vs.
+
+The Hare [BTC]
+
+
+Thank You
+
+
+Special thanks to developer Sunny King for all your hard work, insight, and devotion to improving upon Bitcoin.
+
+"Prove all things hold fast to that which is good."
